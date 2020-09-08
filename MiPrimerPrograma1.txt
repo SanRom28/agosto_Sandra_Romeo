@@ -1,2 +1,1 @@
-Archivo Nueva de pruebas
-Hoy es Martes
+Archivo Nueva de pruebas.
